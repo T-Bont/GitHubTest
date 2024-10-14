@@ -9,6 +9,7 @@
             Console.WriteLine("Test2");
             Console.WriteLine("Test3");
             Console.WriteLine("Test4");
+            Console.WriteLine("TestRebase");
         }
     }
 }
