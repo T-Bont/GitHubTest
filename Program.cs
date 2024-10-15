@@ -12,6 +12,7 @@
             Console.WriteLine("Test5");
             Console.WriteLine("TestRebase");
             Console.WriteLine("Test6");
+            Console.WriteLine("Test7");
         }
     }
 }
